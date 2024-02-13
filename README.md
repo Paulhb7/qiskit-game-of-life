@@ -39,7 +39,3 @@ This command launches a window displaying the initial quantum-generated game boa
 - **Quantum Initialization**: Leverages quantum circuits to generate the initial states of cells, providing a unique starting point for each simulation.
 - **Classical Game Dynamics**: Applies Conway's Game of Life rules to simulate the evolution of cells based on classical computational models.
 - **Visualization**: Utilizes Matplotlib to animate the game's progression, allowing users to visually track the development of cellular patterns.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
